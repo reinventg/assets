@@ -1,0 +1,11 @@
+{
+  "name": "Zoo",
+  "symbol": "ZOO",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Zoo is a community-driven utility token for the Crypto Zoo NFT and gaming ecosystem.",
+  "website": "https://yourwebsite.com",
+  "explorer": "https://bscscan.com/token/0xbaB311457faa43CDc3141F855388Bb1090120248",
+  "status": "active",
+  "id": "0xbaB311457faa43CDc3141F855388Bb1090120248"
+}
